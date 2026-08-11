@@ -1,0 +1,27 @@
+{
+    "input_path": "ch_char_datasets/images-test/test/0000029.jpg",
+    "page_index": null,
+    "dt_polys": [
+        [
+            [
+                1293,
+                873
+            ],
+            [
+                1327,
+                873
+            ],
+            [
+                1327,
+                887
+            ],
+            [
+                1293,
+                887
+            ]
+        ]
+    ],
+    "dt_scores": [
+        0.6233030243697263
+    ]
+}
